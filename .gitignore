@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!modReadme.txt
+!tc1797.pspec
+!tricore.ldefs
+# etc...
+
+# ...even if they are in subdirectories
+!*/
